@@ -43,7 +43,8 @@ Now, let’s talk about how we tackled these requests with the grace of a tightr
 
 6. **Branding Guidelines Compliance:** we modified our UI to incorporate Google branding on all sign-in buttons and provided a demo video to show the updated sign-in button styles in action.
 
-![]({{ '/images/2024-05-20-google-review/zap-results.png' | relative_url }})
+![Before and After Security Changes]({{ '/images/2024-05-20-google-review/zap-results.png' | relative_url }})
+_Before and After Security Changes_
 
 ### The Hilarious Moments
 
@@ -62,3 +63,10 @@ After weeks of meticulous work, countless emails, and a few laughs along the way
 For any developers or managers embarking on this journey, remember: patience, thoroughness, and a sense of humor are your best allies. Navigating Google’s review process is no small feat, but with persistence and a clear focus on security, it’s entirely achievable.
 
 So here’s to passing Google’s review with flying colors! Now, let’s get back to making awesome apps. Cheers!
+
+<style>
+img + em { 
+    display: block;
+    text-align: center;
+}
+</style>
