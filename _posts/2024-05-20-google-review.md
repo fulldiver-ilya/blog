@@ -63,3 +63,13 @@ After weeks of meticulous work, countless emails, and a few laughs along the way
 For any developers or managers embarking on this journey, remember: patience, thoroughness, and a sense of humor are your best allies. Navigating Google’s review process is no small feat, but with persistence and a clear focus on security, it’s entirely achievable.
 
 So here’s to passing Google’s review with flying colors! Now, let’s get back to making awesome apps. Cheers!
+
+<style>
+img + em {
+    display: block;
+    text-align: center;
+
+    font-size: 0.9em;
+    color: #777;
+}
+</style>
