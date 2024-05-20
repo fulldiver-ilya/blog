@@ -1,6 +1,9 @@
 url: "https://fulldiver-ilya.github.io"
 baseurl: "/blog"
 
+name: My Blog
+title: null
+
 author: Ilya S. @ Fulldive
 
 theme: minima
