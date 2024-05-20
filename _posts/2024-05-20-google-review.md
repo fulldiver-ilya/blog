@@ -3,7 +3,7 @@ title: "Navigating the Google Review Process: A Tale of Triumph"
 date: 2024-05-20
 ---
 
-[](./assets/2024-05-20-google-review/sign-in-with-google.png)
+<img src="{{site.baseurl | prepend: site.url}}/assets/2024-05-20-google-review/sign-in-with-google.png" />
 
 In the ever-evolving world of tech, getting your web app through Google’s stringent review process can feel like navigating a labyrinth. But fear not, dear readers! Today, I’m here to share our journey of how we, at AIWIZE, successfully passed Google’s OAuth verification and security review process. Spoiler alert: it involved a lot of back-and-forth emails, security enhancements, and a touch of humor to keep our sanity intact.
 
@@ -43,7 +43,7 @@ Now, let’s talk about how we tackled these requests with the grace of a tightr
 
 6. **Branding Guidelines Compliance:** we modified our UI to incorporate Google branding on all sign-in buttons and provided a demo video to show the updated sign-in button styles in action.
 
-[Before and After Security Changes](./assets/2024-05-20-google-review/zap-results.png)
+<img src="{{site.baseurl | prepend: site.url}}/assets/2024-05-20-google-review/zap-results.png" alt="Before and After Security Changes" />
 
 ### The Hilarious Moments
 

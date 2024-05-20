@@ -1,2 +1,6 @@
-theme: minima
 author: Ilya S. @ Fulldive
+
+url: "https://fulldiver-ilya.github.io/"
+baseurl: "blog/"
+
+theme: minima
