@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
+title: My personal Blog
 ---
-
-## Hello Blog!
